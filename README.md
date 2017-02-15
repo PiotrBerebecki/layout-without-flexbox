@@ -1,8 +1,8 @@
-# Vanilla JavaScript App Boilerplate
+# Layout without Flexbox
 
-App demonstrating ...
+The page content is laid out without CSS Flexbox.
 
-Live version: https://REPO.herokuapp.com
+Live version: https://layout-without-flexbox.herokuapp.com
 
 <img src="./src/graphics/screencast.gif" width="275px" height="auto">
 
@@ -10,15 +10,13 @@ Live version: https://REPO.herokuapp.com
 * Node
 * Express
 * Heroku
-* Vanilla JavaScript
-* ES6
-* Flexbox
+* Browsersync
 
 ## Getting started
 
 ```sh
-git clone https://github.com/PiotrBerebecki/REPO.git
-cd REPO
+git clone https://github.com/PiotrBerebecki/layout-without-flexbox.git
+cd layout-without-flexbox
 npm install
 
 #1. Start the development server with Browsersync reloading

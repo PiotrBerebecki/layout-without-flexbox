@@ -59,10 +59,10 @@ body {
 }
 
 .menu-group {
+  display: inline-block;
+  vertical-align: middle;
   width: 79%;
   list-style-type: none;
-  display: inline-block;
-  /*border: 1px solid blue;*/
 }
 
 .menu-item {
@@ -74,12 +74,13 @@ body {
   display: inline-block;
   text-align: right;
   width: 20%;
-  /*border: 1px solid green;*/
 }
 
 .search {
-  /*display: inline-block;*/
-  /*margin-left: auto;*/
   width: 100%;
-  /*border-right: 1px solid red;*/
+  height: 2rem;
+  padding-left: 0.5rem;s
+  border-radius: 2px;
+  border: none;
+  outline: none;
 }

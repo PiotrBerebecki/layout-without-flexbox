@@ -4,8 +4,6 @@ The page content is laid out without CSS Flexbox.
 
 Live version: https://layout-without-flexbox.herokuapp.com
 
-<img src="./src/graphics/screencast.gif" width="275px" height="auto">
-
 ## Tech stack
 * Node
 * Express
